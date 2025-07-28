@@ -9,18 +9,10 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-"tabs": [
+  "tabs": [
     {
-      "tab": "API Reference",
-      "groups": [
-        {
-          "group": "Endpoints",
-          "openapi": {
-            "source": "/path/to/openapi-1.json",
-            "directory": "api-reference"
-          }
-        }
-      ]
+        "tab": "API Reference",
+        "openapi": "https://spec.speakeasy.com/vartana/qwerty/authlete-api-explorer-with-code-samples"
     }
   ],
     "global": {
