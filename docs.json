@@ -9,12 +9,12 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-  "tabs": [
-    {
-       "tab": "API Reference",
+    "tabs": [
+      {
+        "tab": "API Reference",
         "openapi": "https://spec.speakeasy.com/vartana/qwerty/authlete-api-explorer-with-code-samples"
-    }
-  ],
+      }
+    ],
     "global": {
       "anchors": [
         {
@@ -58,6 +58,5 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
-  },
-  "openapi": "https://yourdomain.com/openapi.yaml?v=2"
+  }
 }
