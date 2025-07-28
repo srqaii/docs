@@ -12,7 +12,7 @@
     "tabs": [
       {
         "tab": "API Reference",
-        "openapi": "https://raw.githubusercontent.com/srqai/docs/refs/heads/main/openapi.yaml"
+    "openapi":"https://raw.githubusercontent.com/srqai/docs/refs/heads/main/spec.yaml"
       }
     ],
     "global": {
