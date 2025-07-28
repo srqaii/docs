@@ -12,7 +12,7 @@
     "tabs": [
       {
         "tab": "API Reference",
-    "openapi":"https://raw.githubusercontent.com/srqai/docs/refs/heads/main/spec.yaml"
+    "openapi":"https://spec.speakeasy.com/vartana/qwerty/authlete-api-explorer-with-code-samples"
       }
     ],
     "global": {
