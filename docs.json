@@ -11,8 +11,8 @@
   "navigation": {
   "tabs": [
     {
-        "tab": "API Reference",
-        "openapi": "https://yourdomain.com/openapi.yaml?v=2"
+       "tab": "API Reference",
+        "openapi": "https://spec.speakeasy.com/vartana/qwerty/authlete-api-explorer-with-code-samples"
     }
   ],
     "global": {
