@@ -9,71 +9,20 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
-      {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
+"tabs": [
+    {
+      "tab": "API Reference",
+      "groups": [
+        {
+          "group": "Endpoints",
+          "openapi": {
+            "source": "/path/to/openapi-1.json",
+            "directory": "api-reference"
           }
-        ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          },
-          {
-            "group": "Speakeasy SDK",
-            "pages": [
-              "api-reference/speakeasy-sdk"
-            ]
-          }
-        ]
-      }
-    ],
+        }
+      ]
+    }
+  ],
     "global": {
       "anchors": [
         {
