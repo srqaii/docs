@@ -1,63 +1,26 @@
 {
   "$schema": "https://mintlify.com/docs.json",
+  "name": "Vartana Authlete API Explorer",
   "theme": "mint",
-  "name": "Authlete API Explorer",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
   "navigation": {
     "tabs": [
       {
         "tab": "API Reference",
-        "openapi": "https://petstore.swagger.io/v2/swagger.json"
-      }
-    ],
-    "anchors": [
-      {
-        "anchor": "Documentation",
-        "href": "https://mintlify.com/docs",
-        "url": "docs",
-        "icon": "book-open-cover"
-      },
-      {
-        "anchor": "Community",
-        "href": "https://mintlify.com/community",
-        "url": "community",
-        "icon": "slack"
-      },
-      {
-        "anchor": "Blog",
-        "href": "https://mintlify.com/blog",
-        "url": "blog",
-        "icon": "newspaper"
+        "openapi": "https://spec.speakeasy.com/vartana/qwerty/authlete-api-explorer-with-code-samples"
       }
     ]
   },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+  "anchors": [
+    {
+      "anchor": "Documentation",
+      "href": "https://mintlify.com/docs",
+      "url": "docs",
+      "icon": "book-open-cover"
     }
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
-  }
+  ]
 }
