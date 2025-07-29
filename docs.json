@@ -16,7 +16,7 @@
     "tabs": [
       {
         "tab": "API Reference",
-        "openapi": "https://petstore.swagger.io/v2/swagger.json",
+        "openapi": "https://petstore.swagger.io/v2/swagger.json"
       }
     ],
     "anchors": [
