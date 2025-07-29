@@ -17,17 +17,9 @@
       {
         "tab": "API Reference",
         "openapi": "https://petstore.swagger.io/v2/swagger.json",
-        "url": "api-reference",
-        "icon": "square-terminal"
       }
     ],
     "anchors": [
-      {
-        "anchor": "API Reference",
-        "openapi": "https://petstore.swagger.io/v2/swagger.json",
-        "url": "api-reference",
-        "icon": "square-terminal"
-      },
       {
         "anchor": "Documentation",
         "href": "https://mintlify.com/docs",
